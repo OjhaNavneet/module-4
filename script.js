@@ -1,7 +1,4 @@
 var a=["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula", "Laura", "Jim"];
-console.log("sDsd");
-
-
 
 for(var i=0 ; i<a.length; i++)
 {
